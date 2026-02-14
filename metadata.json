@@ -1,0 +1,5 @@
+{
+  "name": "Checkers Pro Engine",
+  "description": "An advanced checkers engine with 18 difficulty levels, AI-powered position analysis, and puzzle generation.",
+  "requestFramePermissions": []
+}
